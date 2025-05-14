@@ -1,4 +1,4 @@
-# Ex22 Breadth First Graph
+# EX.NO : 5(B) Breadth First Graph
 ## DATE:21.4.25
 ## AIM:
 To write a printQueue C function of the given graph that is to be traversed in the breadth first manner.
